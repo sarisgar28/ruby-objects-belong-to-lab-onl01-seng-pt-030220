@@ -4,7 +4,7 @@
    
    def initialize 
      @title 
-     self.@author
+     @author
     end 
 
 
