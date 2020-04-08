@@ -7,7 +7,7 @@ class Author
   end 
 
 def author= 
-  @author 
+  @author= author
 end 
   
 end 
