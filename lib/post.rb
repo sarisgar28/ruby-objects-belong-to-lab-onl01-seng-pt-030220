@@ -7,7 +7,7 @@ class Post
     @title= title 
   end 
   
-  belongs_to @author
+ 
 
  
 end  
