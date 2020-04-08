@@ -6,6 +6,7 @@ class Author
     @name = name 
   end 
 
+post.author = author
  
   
 end 
