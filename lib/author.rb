@@ -5,9 +5,7 @@ class Author
   def initialize 
     @name = name 
   end 
-  
-  def author=(author)
-    @author= author 
-  end 
+
+ 
   
 end 
