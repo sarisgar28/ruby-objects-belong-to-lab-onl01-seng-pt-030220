@@ -5,7 +5,7 @@ class Post
 
   def initialize
     @title= title 
-    @Author = @author  
+    @Author = @author.self  
   end 
   
 
