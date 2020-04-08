@@ -6,9 +6,7 @@ class Post
   def initialize
     @title= title  
   end 
- def author=
-   @author=
- end 
+ 
  
 end  
   
