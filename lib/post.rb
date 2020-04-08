@@ -6,7 +6,6 @@ class Post
 
   def initialize
     @title= title 
-    Post.Author  
  end 
   
 
