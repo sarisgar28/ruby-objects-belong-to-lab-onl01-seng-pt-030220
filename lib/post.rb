@@ -6,7 +6,7 @@ class Post
 
   def initialize
     @title= title 
-      belongs_to :author 
+     
  end 
   
 
