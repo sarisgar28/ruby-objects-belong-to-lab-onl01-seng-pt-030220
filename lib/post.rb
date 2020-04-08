@@ -5,7 +5,7 @@ class Post
 
   def initialize
     @title= title 
-    belongs_to = @author 
+    belongs_to = @Author 
   end 
   
 
